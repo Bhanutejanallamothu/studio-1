@@ -41,7 +41,7 @@ sequenceDiagram
 ## Technology Stack
 | Layer | Technology | Purpose |
 |---|---|---|
-| Framework | Next.js 15 | React full-stack application runtime |
+| Framework | Next.js 15.5 | React full-stack application runtime |
 | Language | TypeScript | Domain type contracts |
 | UI | Tailwind CSS | Component design system |
 | Backend | Firebase | Database and authentication |
@@ -60,7 +60,7 @@ studio-1/
 ```
 
 ## Prerequisites
-- Node.js >= 18.x
+- Node.js 22.x (LTS)
 - Firebase Project
 
 ## Environment Variables
